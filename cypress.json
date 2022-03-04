@@ -1,0 +1,8 @@
+{    
+    "baseUrl": "https://demo.seleniumeasy.com/",
+    "pageLoadTimeout": 60000,
+    "defaultCommandTimeout": 5000,
+    "viewportHeight": 800,
+    "viewportWidth": 1500,
+    "reporter": "mochawesome"
+}
